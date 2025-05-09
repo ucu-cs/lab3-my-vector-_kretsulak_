@@ -145,5 +145,5 @@ void run_all_tests() {
     test_erase();
     test_complex_type();
 
-    std::cout << "\n\033[3;42;30m  All tests passed successfully!  \033[0m" << std::endl;
+    std::cout << "\n\033[3;42;30m  All vector tests passed successfully!  \033[0m" << std::endl;
 }
