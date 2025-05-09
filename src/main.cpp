@@ -5,7 +5,7 @@
 #include "testing_my_vector.hpp"
 
 
-int main(int argc, char* argv[]) {
+int main() {
     run_all_tests();
 
     return 0;
